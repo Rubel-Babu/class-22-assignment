@@ -1,0 +1,69 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+p,
+a{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    width: 100px;
+}
+
+.slider-section{
+    background: #F9F9FF;
+}
+.slider-content{
+    color: #373C42;
+}
+.slider-content p{}
+.slider-content h1{}
+.slider-content {}
+
+.banner-button{
+    color: #FDFEFF;
+}
+
+.about-button{
+    font-size: 18px;
+}
+
+.counter-section{
+    background: #8490FF;
+}
+
+.testimonial{
+    background:#F9F9FF ;
+}
+
+span {
+    font-size: 29px;
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    line-height: 85px;
+    display: inline-block;
+}
+.t-items .t-box h5{}
+.t-items .t-box p{}
+.t-items .t-box h3{}
+.t-items .t-box h2{}
+
+.team-box img{
+    width: 30%;
+}
+.team-box img {
+    width: 30%;
+    position: relative;
+    top: -22px;
+    left: -84px;
+    margin-top: -40px;
+}
+.contact-section{
+    background:#F9F9FF ;
+}
